@@ -5,9 +5,9 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2025-12-23T18:02:22.101Z",
-    "end": "2025-12-23T18:02:22.596Z",
-    "duration": 495
+    "start": "2025-12-23T19:58:42.773Z",
+    "end": "2025-12-23T19:58:43.562Z",
+    "duration": 789
   },
   "tests": [
     {
@@ -27,14 +27,14 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -73,14 +73,14 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },

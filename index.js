@@ -1,6 +1,9 @@
 // code your solution in this file!
-const companyName = 'Scuber' 
+const companyName = "Scuber" 
+console.log(companyName)
 
-let mostProfitableNeighborhood = 'Chelsea'
+let mostProfitableNeighborhood = "Chelsea"
+console.log(mostProfitableNeighborhood)
 
-let companyCeo = 'Susan Smith'
+let companyCeo = "Susan Smith"
+console.log(companyCeo)
